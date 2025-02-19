@@ -13,7 +13,7 @@ Bem vindo ao meu projeto de portfólio, desenvolvido no curso de HTML e CSS da A
 ---
 
 🚀 **Acesse meu portfólio online:**  
-🔗 [Meu portfólio na Vercel](https://seu-portfolio.vercel.app)
+🔗 [Meu portfólio na Vercel](https://portfolio-lorena-da-cruzs-projects.vercel.app/)
 
 ---
 
